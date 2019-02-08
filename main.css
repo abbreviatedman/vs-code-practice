@@ -27,7 +27,6 @@
 
 #footer {
     font-size: 0.7em;
-    color: 
 }
 
 .card-body {
@@ -36,4 +35,8 @@
 
 .user-avatar {
     padding-right: 10px;
+}
+
+.social-media-links img {
+    padding: 10px;
 }
